@@ -1,0 +1,32 @@
+{
+  bookingid: 5662,
+  booking: {
+    firstname: 'Teja',
+    lastname: 'Ramesh',
+    totalprice: 900000,
+    depositpaid: true,
+    bookingdates: { checkin: '2026-01-01', checkout: '2026-06-01' },
+    additionalneeds: 'Breakfast'
+  }
+}
+Booking successfully created
+Booking Id is ------> 5662
+Booking details fetched successfully 
+{
+  firstname: 'Teja',
+  lastname: 'Ramesh',
+  totalprice: 900000,
+  depositpaid: true,
+  bookingdates: { checkin: '2026-01-01', checkout: '2026-06-01' },
+  additionalneeds: 'Breakfast'
+}
+Token generated successfully 
+Generated token is :  40d8051ed9f8c5e
+{
+  firstname: 'Kiran',
+  lastname: 'Raj',
+  totalprice: 1200000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'Breakfast'
+}

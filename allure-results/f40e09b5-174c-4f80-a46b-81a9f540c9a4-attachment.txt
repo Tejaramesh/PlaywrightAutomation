@@ -1,0 +1,21 @@
+{
+  bookingid: 4358,
+  booking: {
+    firstname: 'Teja',
+    lastname: 'Ramesh',
+    totalprice: 900000,
+    depositpaid: true,
+    bookingdates: { checkin: '2026-01-01', checkout: '2026-06-01' },
+    additionalneeds: 'Breakfast'
+  }
+}
+Booking Id is ------> 4358
+Generated token is :  fb897fa834c0ba9
+{
+  firstname: 'Ramesh',
+  lastname: 'N V',
+  totalprice: 900000,
+  depositpaid: true,
+  bookingdates: { checkin: '2026-01-01', checkout: '2026-06-01' },
+  additionalneeds: 'Breakfast'
+}

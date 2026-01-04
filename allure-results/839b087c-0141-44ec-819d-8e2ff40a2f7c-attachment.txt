@@ -1,0 +1,11 @@
+{
+  bookingid: 2362,
+  booking: {
+    firstname: 'Jacinthe',
+    lastname: 'Streich',
+    totalprice: 2237,
+    depositpaid: false,
+    bookingdates: { checkin: '2026-01-03', checkout: '2026-01-08' },
+    additionalneeds: 'Egg rice'
+  }
+}

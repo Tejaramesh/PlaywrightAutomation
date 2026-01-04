@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "csv-parse": "^6.1.0",
+    "luxon": "^3.7.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3",
+    "ajv": "^8.17.1",
+    "allure-playwright": "^3.4.3",
+    "playwright": "^1.57.0"
+  },
+  "scripts": {
+    "test:master": "playwright test --grep @master",
+    "test:sanity": "playwright test --grep @sanity",
+    "test:regression": "playwright test --grep @regression",
+    "test:data-driven": "playwright test --grep @datadriven",
+    "test:maser:headed": "playwright test --grep @master --headed",
+    "test:sanity:debug": "playwright test --grep @sanity --debug"
+  }
+}
