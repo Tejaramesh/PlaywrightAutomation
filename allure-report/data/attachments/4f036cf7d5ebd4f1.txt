@@ -1,4 +1,0 @@
-Error selecting the product Error: locator.innerText: Target page, context or browser has been closed
-Call log:
-  - waiting for locator('h4 a').nth(1)
-
